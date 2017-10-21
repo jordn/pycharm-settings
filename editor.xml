@@ -3,15 +3,8 @@
     <option name="FONT_SIZE" value="15" />
     <option name="LINE_SPACING" value="1.05" />
   </component>
-  <component name="EditorSettings">
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
