@@ -5,6 +5,9 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="EditorToggleShowGutterIcons">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl f7" />
