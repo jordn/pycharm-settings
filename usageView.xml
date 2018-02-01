@@ -6,6 +6,8 @@
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
   </component>
   <component name="UsageViewSettings">
+    <option name="filterDuplicatedLine" value="false" />
+    <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
     <option name="IS_PREVIEW_USAGES" value="true" />
   </component>
 </application>
