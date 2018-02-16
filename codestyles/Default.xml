@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="99" />
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
@@ -10,4 +10,7 @@
     <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
   </Python>
+  <codeStyleSettings language="Python">
+    <option name="SOFT_MARGINS" value="79" />
+  </codeStyleSettings>
 </code_scheme>
