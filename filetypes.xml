@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="tmpl" type="Jinja2" />
       <mapping pattern="test_dict" type="PLAIN_TEXT" />
+      <mapping pattern="test_procedure" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
