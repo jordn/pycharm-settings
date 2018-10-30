@@ -16,6 +16,9 @@
   <action id="EditorToggleShowGutterIcons">
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl f7" />
