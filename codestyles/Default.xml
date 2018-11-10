@@ -18,6 +18,7 @@
     <option name="SOFT_MARGINS" value="120" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="79" />
     <option name="SOFT_MARGINS" value="79" />
   </codeStyleSettings>
 </code_scheme>
