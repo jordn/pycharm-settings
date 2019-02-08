@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../recipes/echo/nlu/exp/mt_data_project/fr_fr.py [Dory-BlueShift]'" />
-    <option name="defaultScopeName" value="File '.../recipes/echo/nlu/exp/mt_data_project/fr_fr.py [Dory-BlueShift]'" />
-    <option name="SEARCH_SCOPE" value="File '.../recipes/echo/nlu/exp/mt_data_project/fr_fr.py [Dory-BlueShift]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
