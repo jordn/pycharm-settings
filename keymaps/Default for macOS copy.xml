@@ -9,4 +9,8 @@
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
