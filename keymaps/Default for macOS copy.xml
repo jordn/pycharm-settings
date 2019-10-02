@@ -1,6 +1,16 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="FileHistory.AnnotateRevision">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -12,5 +22,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="Vcs.UpdateProject" />
 </keymap>
