@@ -5,17 +5,18 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="tmpl" type="Jinja2" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="test_procedure" type="PLAIN_TEXT" />
       <mapping pattern="test_dict" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping ext="mt_format" type="PLAIN_TEXT" />
       <mapping ext="crx" type="PLAIN_TEXT" />
+      <mapping ext="mt_format" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="unique_counts" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bashrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
