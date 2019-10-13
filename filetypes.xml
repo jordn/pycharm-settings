@@ -11,6 +11,7 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="crx" type="PLAIN_TEXT" />
       <mapping ext="mt_format" type="PLAIN_TEXT" />
+      <mapping ext="jordans-mbp-2" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="unique_counts" type="PLAIN_TEXT" />
